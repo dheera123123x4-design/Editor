@@ -1,0 +1,6 @@
+{
+  "name": "MotionAI Studio",
+  "description": "Turn your imagination into motion. Premium AI-powered video and photo editing studio with timeline editing, filters, captions, and generative AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
